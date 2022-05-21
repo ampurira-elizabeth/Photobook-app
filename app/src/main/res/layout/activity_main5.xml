@@ -20,13 +20,13 @@
 
     <TextView
         android:id="@+id/tvAbout5"
-        android:layout_width="0dp"
-        android:layout_height="265dp"
+        android:layout_width="352dp"
+        android:layout_height="215dp"
         android:layout_marginStart="16dp"
-        android:layout_marginTop="16dp"
+        android:layout_marginTop="32dp"
         android:layout_marginEnd="16dp"
-        android:text="Behind every hardship,there must be refleshment.The beach is the best place for reflesing your mind."
-        android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+        android:text="Behind every hardship,there must be refleshment.The beach is best for it."
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/img5" />
