@@ -5,9 +5,10 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 
-lateinit var btnBack:Button
-lateinit var btnNext2:Button
+
 class MyActivity2 : AppCompatActivity() {
+    lateinit var btnBack:Button
+    lateinit var btnNext2:Button
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_my2)
